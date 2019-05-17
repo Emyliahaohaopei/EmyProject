@@ -1,5 +1,5 @@
-requirejs.config({
-	baseUrl : "file:///c:/Users/Administrator/Desktop/requireJS9090/",
+﻿requirejs.config({
+	//baseUrl : "file:///c:/Users/Administrator/Desktop/requireJS9090/",
 	paths : {
 		"vali" : "scripts/jquery.validate",
 		"jquery" : "scripts/jquery-2.0.3",
